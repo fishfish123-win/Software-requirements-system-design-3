@@ -1,0 +1,16 @@
+Family "Smiths"
+{
+	members
+	{
+		Man "John" {
+			children("Anna")
+		},
+		Woman "Anna" {
+			parents("John")
+		}
+	}
+}
+
+
+
+

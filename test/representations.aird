@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basicfamily="http://www.rm2pt.com/basicfamily" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis uid="__P3ZgESmEfCVnLu9GJBRYA" selectedViews="_Rs8_4ESnEfCVnLu9GJBRYA _gJxOwESnEfCVnLu9GJBRYA" version="14.5.1.202106111100">
+    <semanticResources>My.basicfamily</semanticResources>
+    <semanticResources>family.basicfamilydsl</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_Rs8_4ESnEfCVnLu9GJBRYA">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_TAhgkESnEfCVnLu9GJBRYA" name="new Persons diagram" repPath="#_TAMwcESnEfCVnLu9GJBRYA" changeId="1efb3f3b-4a10-4ae0-8b04-65bfef584b18">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']"/>
+        <target xmi:type="basicfamily:Family" href="My.basicfamily#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DView" uid="_gJxOwESnEfCVnLu9GJBRYA">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/org.rm2pt.sample.basicfamily/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_geYz4USnEfCVnLu9GJBRYA" name="new Persons diagram" repPath="#_geYM0ESnEfCVnLu9GJBRYA" changeId="24bd09c8-09f3-4b9c-888f-f8bcf90652d7">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/org.rm2pt.sample.basicfamily/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']"/>
+        <target xmi:type="basicfamily:Family" href="My.basicfamily#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_TAMwcESnEfCVnLu9GJBRYA">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_TA6iIESnEfCVnLu9GJBRYA" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_TA6iIUSnEfCVnLu9GJBRYA" type="Sirius" element="_TAMwcESnEfCVnLu9GJBRYA" measurementUnit="Pixel">
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_TA6iIkSnEfCVnLu9GJBRYA"/>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_TBgYAESnEfCVnLu9GJBRYA" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_TBg_EESnEfCVnLu9GJBRYA"/>
+    </ownedAnnotationEntries>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_TAV6YESnEfCVnLu9GJBRYA"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']/@defaultLayer"/>
+    <target xmi:type="basicfamily:Family" href="My.basicfamily#/"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram uid="_geYM0ESnEfCVnLu9GJBRYA">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_geZa8ESnEfCVnLu9GJBRYA" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_geZa8USnEfCVnLu9GJBRYA" type="Sirius" element="_geYM0ESnEfCVnLu9GJBRYA" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_gerHwESnEfCVnLu9GJBRYA" type="2001" element="_gedFUESnEfCVnLu9GJBRYA">
+          <children xmi:type="notation:Node" xmi:id="_geuyIESnEfCVnLu9GJBRYA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_geuyIUSnEfCVnLu9GJBRYA" x="-1" y="-17"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_gkHocESnEfCVnLu9GJBRYA" type="3005" element="_gehWwESnEfCVnLu9GJBRYA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_gkHocUSnEfCVnLu9GJBRYA" fontName="Microsoft YaHei UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gkHockSnEfCVnLu9GJBRYA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_gerHwUSnEfCVnLu9GJBRYA" fontName="Microsoft YaHei UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gerHwkSnEfCVnLu9GJBRYA" x="290" y="230" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_gjsKoESnEfCVnLu9GJBRYA" type="2001" element="_gelBIESnEfCVnLu9GJBRYA">
+          <children xmi:type="notation:Node" xmi:id="_gjsxsESnEfCVnLu9GJBRYA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_gjsxsUSnEfCVnLu9GJBRYA" x="-3" y="-17"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_gkIPgESnEfCVnLu9GJBRYA" type="3005" element="_gelBIUSnEfCVnLu9GJBRYA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_gkIPgUSnEfCVnLu9GJBRYA" fontName="Microsoft YaHei UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gkIPgkSnEfCVnLu9GJBRYA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_gjsKoUSnEfCVnLu9GJBRYA" fontName="Microsoft YaHei UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gjsKokSnEfCVnLu9GJBRYA" x="295" y="110" width="40" height="40"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_geZa8kSnEfCVnLu9GJBRYA"/>
+        <edges xmi:type="notation:Edge" xmi:id="_gkKEsESnEfCVnLu9GJBRYA" type="4001" element="_gem2UESnEfCVnLu9GJBRYA" source="_gerHwESnEfCVnLu9GJBRYA" target="_gjsKoESnEfCVnLu9GJBRYA">
+          <children xmi:type="notation:Node" xmi:id="_gkLS0ESnEfCVnLu9GJBRYA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gkLS0USnEfCVnLu9GJBRYA" x="-1" y="-4"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_gkL54ESnEfCVnLu9GJBRYA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gkL54USnEfCVnLu9GJBRYA" x="1" y="2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_gkMg8ESnEfCVnLu9GJBRYA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gkMg8USnEfCVnLu9GJBRYA" x="1" y="3"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_gkKEsUSnEfCVnLu9GJBRYA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_gkKEskSnEfCVnLu9GJBRYA" fontColor="11042733" fontName="Microsoft YaHei UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gkKEs0SnEfCVnLu9GJBRYA" points="[0, 0, -5, 80]$[5, -80, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gkUcwESnEfCVnLu9GJBRYA" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gkUcwUSnEfCVnLu9GJBRYA" id="(0.5,1.0)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_geoEckSnEfCVnLu9GJBRYA" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_geoEc0SnEfCVnLu9GJBRYA"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_gedFUESnEfCVnLu9GJBRYA" name="Paul" outgoingEdges="_gem2UESnEfCVnLu9GJBRYA" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="basicfamily:Man" href="My.basicfamily#//@members.0"/>
+      <semanticElements xmi:type="basicfamily:Man" href="My.basicfamily#//@members.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_gehWwESnEfCVnLu9GJBRYA" workspacePath="/org.rm2pt.sample.basicfamily.design/icons/man.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/org.rm2pt.sample.basicfamily/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']/@defaultLayer/@nodeMappings[name='ManNode']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.rm2pt.sample.basicfamily/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']/@defaultLayer/@nodeMappings[name='ManNode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_gelBIESnEfCVnLu9GJBRYA" name="Mary" incomingEdges="_gem2UESnEfCVnLu9GJBRYA" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="basicfamily:Woman" href="My.basicfamily#//@members.1"/>
+      <semanticElements xmi:type="basicfamily:Woman" href="My.basicfamily#//@members.1"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_gelBIUSnEfCVnLu9GJBRYA" workspacePath="/org.rm2pt.sample.basicfamily.design/icons/woman.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/org.rm2pt.sample.basicfamily/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']/@defaultLayer/@nodeMappings[name='WomanNode']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.rm2pt.sample.basicfamily/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']/@defaultLayer/@nodeMappings[name='WomanNode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_gem2UESnEfCVnLu9GJBRYA" sourceNode="_gedFUESnEfCVnLu9GJBRYA" targetNode="_gelBIESnEfCVnLu9GJBRYA">
+      <target xmi:type="basicfamily:Man" href="My.basicfamily#//@members.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_gendYESnEfCVnLu9GJBRYA" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.rm2pt.sample.basicfamily/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']/@defaultLayer/@edgeMappings[name='motherEdge']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_gendYUSnEfCVnLu9GJBRYA" labelSize="12" labelColor="173,127,168"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.rm2pt.sample.basicfamily/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']/@defaultLayer/@edgeMappings[name='motherEdge']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/org.rm2pt.sample.basicfamily/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_geYz4ESnEfCVnLu9GJBRYA"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/org.rm2pt.sample.basicfamily/org.rm2pt.sample.basicfamily.design/description/basicfamily.odesign#//@ownedViewpoints[name='persons']/@ownedRepresentations[name='Persons%20diagram']/@defaultLayer"/>
+    <target xmi:type="basicfamily:Family" href="My.basicfamily#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
